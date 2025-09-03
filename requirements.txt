@@ -1,0 +1,7 @@
+aiohttp
+beautifulsoup4
+lxml
+asyncio
+aiofiles
+python-dotenv
+openpyxl
